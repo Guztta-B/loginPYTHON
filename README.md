@@ -2,7 +2,7 @@
 
 <p>Este projeto implementa um sistema de cadastro e login utilizando Python e SQLite, com interface gráfica feita com CustomTkinter. O sistema permite que os usuários se cadastrem e façam login, validando os dados armazenados no banco de dados.
 
-📌 Tecnologias Utilizadas
+📌 Tecnologias Utilizadas <br>
 Python → Linguagem principal do projeto
 
 CustomTkinter → Interface gráfica moderna e responsiva
