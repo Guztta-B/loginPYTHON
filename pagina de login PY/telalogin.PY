@@ -10,7 +10,6 @@ customtkinter.set_default_color_theme("dark-blue")
 janela = customtkinter.CTk()
 janela.geometry("300x300")
 
-# Criar conexão e tabela se não existir
 conn = sqlite3.connect("usuarios.db")
 cursor = conn.cursor()
 cursor.execute("""
